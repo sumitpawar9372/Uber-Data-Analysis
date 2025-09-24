@@ -51,6 +51,6 @@ The following insights were derived using SQL & Power BI:
 ## 🚀 How to Run  
 1. **Clone this repository**  
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo>
+   git clone <[(https://github.com/sumitpawar9372/Uber-Data-Analysis.git)]>
+   cd <[(https://github.com/sumitpawar9372/Uber-Data-Analysis.git)]>
 
