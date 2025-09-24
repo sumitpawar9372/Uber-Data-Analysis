@@ -54,3 +54,10 @@ The following insights were derived using SQL & Power BI:
    git clone <[(https://github.com/sumitpawar9372/Uber-Data-Analysis.git)]>
    cd <[(https://github.com/sumitpawar9372/Uber-Data-Analysis.git)]>
 
+ ## Sample of Dashboard
+
+ ![Uber Dashboard](C:\Users\sumit\OneDrive\Pictures\Screenshots)
+
+
+
+
