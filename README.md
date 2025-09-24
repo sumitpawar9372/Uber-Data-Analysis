@@ -56,7 +56,7 @@ The following insights were derived using SQL & Power BI:
 
  ## Sample of Dashboard
 
- ![Uber Dashboard]([https://github.com/sumitpawar9372/Uber-Data-Analysis/blob/909d13c5b0b984b265303c425de73a2a19f3ba15/Screenshot%202025-09-24%20054812.png])
+ ![Uber Dashboard](https://github.com/sumitpawar9372/Uber-Data-Analysis/blob/909d13c5b0b984b265303c425de73a2a19f3ba15/Screenshot%202025-09-24%20054812.png)
 
 
 
